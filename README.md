@@ -1,1 +1,1 @@
-PSYC 6273 -- Computer programming for experimental psychology
+Course announcements will appear here
