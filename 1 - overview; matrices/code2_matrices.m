@@ -20,17 +20,19 @@ a = randn(3,5)          % normal random values
 a = [];                 % empty matrix
 a = rand(3,3,2)         % three dimensional matrices
 
-a = [ 4 8 9 ];  b = [ 2 3 ];  c = [ a b ]
+a = [ 4 8 9 ];
+b = [ 2 3 ];
+c = [ a b ]   % combine matrices to form a new matrix
 
 
 %% mathematical operations on matrices
 
 a = rand(3);
-b = 3*a        % scalar multiplication
-c = a+b        % matrix addition
-c = a*b        % matrix multiplication
-c = a.*b       % pointwise multiplication; also a./b, a.^b
-c = 10*a+3     % scalar-matrix multiplication and addition
+b = 3 * a        % scalar multiplication
+c = a + b        % matrix addition
+c = a * b        % matrix multiplication
+c = a .* b       % pointwise multiplication; also a./b, a.^b
+c = 10 * a + 3   % scalar-matrix multiplication and addition
 
 
 
