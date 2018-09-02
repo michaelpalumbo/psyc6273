@@ -1,3 +1,5 @@
+#Announcements and reminders#
+
 - Download and read the course syllabus
 
 - First test on September 20
