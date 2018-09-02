@@ -1,4 +1,4 @@
-#Announcements and reminders#
+# Announcements and reminders
 
 - Download and read the course syllabus
 
