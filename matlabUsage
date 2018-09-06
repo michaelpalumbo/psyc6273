@@ -2,3 +2,5 @@ My MATLAB usage notes
 
 Shortcuts:
 Evalue Selection: option-cmd-E 
+
+run 'function bank' in CLI, it will report large numbers in decimal instead of scientific notation
