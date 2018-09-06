@@ -1,0 +1,5 @@
+To pull Professor Richard Murray’s updates: 'git pull upstream master'
+
+Ask Richard if he would be interested in talking to Abigail Cabunoc-Mayes re Open Research? 
+
+ending a line with a semicolon ; will prevent MATLAB's console from echoing the command. 

@@ -1,5 +1,6 @@
 %% code1_intro.m  Basics of MATLAB programming
-
+%% the '%%' divides the code into SECTIONS, this way you can execute 
+% individual sections if you want
 
 %% variables and expressions
 
