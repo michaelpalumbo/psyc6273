@@ -79,7 +79,7 @@ quit  % or command-Q
 rand
 10 + 10*rand
 
-% normal distribution
+% standard normal distribution
 randn
 5*randn
 
