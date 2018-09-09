@@ -51,6 +51,6 @@ if ( a>0.5 && b>0.5 ) || ~( a>0.9 )
 	num = 0;
 end
 
-% use || && ~ for if-elseif-else (and switch, and while)
+% use || && ~ for if-elseif-else (also switch and while)
 
 % use |  &  ~ for matrix operations (logical indices); will cover these later
