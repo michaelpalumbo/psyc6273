@@ -36,3 +36,8 @@ u = demofunca( 10, 20 )
 % - functions can have no return arguments
 % - functions can have no input arguments
 % - functions don't normally print their return arguments
+
+
+%% exercises
+
+% chapter 3, exercises 2, 27, 31
