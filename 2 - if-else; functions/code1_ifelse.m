@@ -23,7 +23,7 @@ if num < -10
 	x = -2;
 elseif num < 0
     x = -1;
-elseif num == 0
+elseif num == 0  % use == to test for equality (not =)
     x = 0;
 elseif num <= 10
     x = 1;
@@ -61,4 +61,3 @@ end
 %% exercises
 
 % chapter 4, exercises 11, 14, 16, 20
-
