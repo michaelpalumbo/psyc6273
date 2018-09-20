@@ -109,3 +109,8 @@ f = find(a>0.5);
 a(f) = 0            
 
 a([ 1 2 3 ]) = [ 10 20 30 ]  % can assign multiple values
+
+
+%% exercises
+
+% chapter 2, exercises 41, 45, 47

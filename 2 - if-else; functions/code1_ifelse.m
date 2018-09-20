@@ -58,6 +58,7 @@ end
 
 % use |  &  ~ for matrix operations (logical indices); will cover these later
 
+
 %% exercises
 
 % chapter 4, exercises 11, 14, 16, 20

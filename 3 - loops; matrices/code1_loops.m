@@ -119,3 +119,8 @@ end
 
 % version 2 (easier to read and maintain, often faster)
 runprod = prod(1:n);
+
+
+%% exercises
+
+% chapter 5, exercises 1, 5, 16, 29, 32
