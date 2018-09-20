@@ -11,3 +11,32 @@ the proposal: 1/2-to-1 page proposal:
 Due December 6, 2018
 
 ask 
+
+I work in the areas of electroacoustic music, and distributed creativity, and my PhD research and artistic work 
+has focused on exploring uses of distributed version control systems, like git, for research-creation (or practice-based research). I have been expressing this research in 
+two laboratories on campus: the Alice Lab for Computational Worldmaking, led by Dr. Graham Wakefield, where I have  
+primarily focused on developing git-based collaborative code editing tools for the browser and VR, towards the goals of 
+affording real-time improvisation and experimentation; and in the Distributed Performance and Sensorial Immersion (Dispersion) Lab, led by my supervisor
+Dr. Doug Van Nort, where, more recently I have been writing a composition for a laptop ensemble which looks at the 
+performative act of working with git. Temporarily titled 'gitShow', the piece will involve 7 composers familiar with software design, with each tasked with developing a 
+digital musical instrument, a score, and a recording of an improvisation, and committing these to a feature branch over the span of one week. Following the end of this phase, each branch is 
+reassigned to another composer for another week, where they must perform the score, then commit new changes to the instrument along with a new score and 
+recorded improvisation. Rules are currently being drafted for ways in which the composers must interact with and contribute to the commit history.
+
+Git exposes both qualitative and quantitative data about individual and collective creative activity and the 
+sentiments and intentions expressed within the commit message history. Since my gitShow composition will run from November to December, I would like to run an experiment
+which analyzes repository data from the first and second (and maybe 3rd) phases. I will admit that I am as yet unsure of specifically what data to analyze, although one detail I would like to understand
+is the degree to which the composers take to constrain structural changes to their work in subsequent phases, and whether this may be detected in the commit history, the code, the score, the improvisation, etc. 
+One could compare the degree to which a instrument's parameters are exposed to 
+manual control (made explicit in a graphic user interface, for example), in a given phase, against the amount of code churn between that phase and the next; or that phase and the last phase. 
+I will also state an interest in having the results of this study feed back into the composition, perhaps as a method of determining which instrument feature branch gets assigned to which composer in a subsequent phase. 
+
+One contribution to research that interests me is to develop research tools for studying 
+distributed creativity in electroacoustic music, drawing on the work of Gibson (1979), (Sawyer (2009), Born (2005), Haworth (2015), Gell (2015), Software Repository Mining (MSR), Heidegger (2012, 2013), and Simondon (2017).
+
+
+
+GitShow (working title), draws on Gell's extension of Husserl's protention-retention model of lived time to the time scale encompassin an artist's oeuvre, 
+which as I've noted in my own work, he chooses to represent as either a force directed graph, 
+or a directed acyclic graph, each of which are often used to represent the author commit history in a git repository. 
+
