@@ -32,6 +32,10 @@ x = m(:,end);
 % number of elements in m.
 c = numel(m);
 
+% 4e.  Make x a row vector with elements that are the maximum of each row
+% of m.
+x = max( m, [], 2 )';
+
 % 5.  Write code that will set the variable s to -1 if x is less than zero,
 % set s to 0 if x is equal to zero, and set s to 1 if x is greater than
 % zero.  The value NaN does not meet any of these conditions, so if x does
@@ -47,3 +51,27 @@ else
     s = NaN;
 end
 
+% 6.  Write a for loop that prints all the prime numbers between 1 and 100.
+for k = 1:100
+    if isprime(k)
+        fprintf('%d\n',k);
+    end
+end
+
+% 7.  Write a while loop that finds the first prime number greater than 100.
+i = 100;
+while ~isprime( i )
+    i = i + 1;
+end
+fprintf('the first prime greater than 100 is %d\n',i);
+
+% 8.  Set a = 3.14 and b = 'abc'.  Use fprintf() to print the following
+% message:  The value of a is 3.1400 and the value of b is 'abc'.
+a = 3.14;
+b = 'abc';
+fprintf('The value of a is %.4f and the value of b is ''%s''.\n',a,b);
+
+% 9.  Write a function that takes two input arguments, and returns the sum
+% of their absolute values.
+
+% solution:  see addabs.m
