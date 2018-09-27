@@ -16,6 +16,7 @@ for a = 1:5
 end
 
 % for loop to calculate the sum of a sequence of numbers
+% %f for decimal. %.6f print a floating point with 6 decimal places
 k = 0;
 for i = 1:10
     k = k + i;
